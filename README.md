@@ -1,4 +1,15 @@
 # 🍎 NutriNova AI
+
+<p align="center">
+
+  ### Eat Smart. Live Healthy. Stay Personalized.
+
+  [🚀 Live Demo](https://coruscating-dango-8c7d09.netlify.app)
+
+  [📂 GitHub Repository](https://github.com/khush7v7i/NutriNova-AI)
+
+</p>
+# 🍎 NutriNova AI
 ### Eat Smart. Live Healthy. Stay Personalized.
 
 <p align="center">
