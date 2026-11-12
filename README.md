@@ -1,4 +1,3 @@
-# NutriNova-AI
 # 🍎 NutriNova AI
 ### Eat Smart. Live Healthy. Stay Personalized.
 
