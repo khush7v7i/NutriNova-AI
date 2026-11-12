@@ -9,8 +9,6 @@
   [📂 GitHub Repository](https://github.com/khush7v7i/NutriNova-AI)
 
 </p>
-# 🍎 NutriNova AI
-### Eat Smart. Live Healthy. Stay Personalized.
 
 <p align="center">
   An AI-powered personalized nutrition and diet-planning platform.
